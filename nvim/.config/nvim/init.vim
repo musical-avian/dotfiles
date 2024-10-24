@@ -12,6 +12,7 @@ set cindent
 set clipboard=unnamedplus
 set colorcolumn=80
 set cursorline
+set cursorcolumn
 set expandtab
 set hlsearch
 set ignorecase
